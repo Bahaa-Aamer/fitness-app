@@ -1,0 +1,1228 @@
+body {
+  background-color: #575555;
+  height: 3000px;
+  position: relative;
+  color: white;
+  font-family: fantasy;
+}
+
+.nav-extended {
+  background-color: #1b1b1b;
+  position: relative;
+  width: 100%;
+}
+
+.main_bar a:hover {
+  color: white;
+}
+
+.logo img {
+  width: 100%;
+}
+
+.logo {
+  width: 170px;
+  margin-top: -40px;
+  margin-left: 10px;
+}
+
+.main_bar a {
+  color: #c3c3c3;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+.main_bar {
+  position: fixed;
+  width: 100%;
+  z-index: 5;
+}
+
+.head video {
+  width: 100%;
+  height: 600px;
+  position: relative;
+}
+.head {
+  padding-top: 132px;
+}
+
+/* legend section */
+
+.legends {
+  position: relative;
+  margin: 0 50px 0 50px;
+  text-align: center;
+  text-shadow: 4px 4px 5px #000000;
+  color: white;
+}
+
+.title {
+  font-size: 80px;
+  text-shadow: 4px 4px 5px #000000;
+  text-align: center;
+}
+
+.simeon {
+  position: relative;
+  width: 400px;
+  height: 500px;
+  border-radius: 10%;
+  background: url(../media/Simeon\ Panda\ on\ Instagram_\ _Which\ body\ type\ are\ y.jpg);
+  background-size: cover;
+  float: left;
+  box-shadow: 0 20px 50px rgba(5, 4, 4, 0.5);
+}
+
+.cap1 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 10%;
+  padding-top: 95%;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  text-shadow: 4px 4px 5px #000000;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
+  display: none;
+}
+
+.rana {
+  position: relative;
+  width: 450px;
+  height: 550px;
+  float: left;
+  margin-left: 80px;
+  border-radius: 10%;
+  background: url(../media/Rana\ Mostafa\ on\ Instagram_\ _Master\ the\ pose\ no\ mat.jpg);
+  background-size: cover;
+  box-shadow: 0 20px 50px rgba(5, 4, 4, 0.5);
+}
+
+.cap2 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 10%;
+  padding-top: 95%;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  text-shadow: 4px 4px 5px #000000;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
+  display: none;
+}
+
+.jeff {
+  position: relative;
+  width: 400px;
+  height: 500px;
+
+  border-radius: 10%;
+  background: url(../media/ATHLEAN-X™\ _\ Jeff\ Cavaliere\ on\ Instagram_\ _I\ chall.jpg);
+  float: right;
+  background-size: cover;
+  box-shadow: 0 20px 50px rgba(5, 4, 4, 0.5);
+}
+
+.cap3 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 10%;
+  padding-top: 95%;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  text-shadow: 4px 4px 5px #000000;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
+  display: none;
+}
+
+.lazar {
+  position: relative;
+  width: 350px;
+  height: 400px;
+  border-radius: 10%;
+  background: url(../media/21b.jpg);
+  background-size: cover;
+  clear: both;
+  float: left;
+  box-shadow: 0 20px 50px rgba(5, 4, 4, 0.5);
+}
+
+.cap4 {
+  position: absolute;
+  width: 350px;
+  height: 400px;
+  border-radius: 10%;
+  padding-top: 85%;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  text-shadow: 4px 4px 5px #000000;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
+  display: none;
+}
+
+.ulisses {
+  position: relative;
+  width: 470px;
+  height: 300px;
+  border-radius: 10%;
+  background: url(../media/IMG_6372.jpg);
+  background-size: cover;
+  box-shadow: 0 20px 50px rgba(5, 4, 4, 0.5);
+  float: left;
+  margin-left: 110px;
+  margin-top: 50px;
+}
+
+.cap5 {
+  position: absolute;
+  width: 470px;
+  height: 300px;
+  border-radius: 10%;
+  padding-top: 47%;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  text-shadow: 4px 4px 5px #000000;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
+  display: none;
+}
+
+.sally {
+  position: relative;
+  width: 400px;
+  height: 400px;
+  border-radius: 10%;
+  background: url(../media/CrossFit\ Hustle\ on\ Instagram_\ _Our\ one\ and\ only\ yo.jpg);
+  background-size: cover;
+  box-shadow: 0 20px 50px rgba(5, 4, 4, 0.5);
+  float: right;
+  margin-right: 50px;
+  left: 50px;
+}
+
+.cap6 {
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  border-radius: 10%;
+  padding-top: 80%;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  text-shadow: 4px 4px 5px #000000;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
+  display: none;
+}
+
+.pic:hover {
+  transform: scale(1.1);
+}
+
+.pic {
+  transition: 0.2s;
+}
+
+.pic a {
+  color: white;
+}
+
+/* story section is coming */
+
+.story {
+  margin-top: 40px;
+  width: 100%;
+  clear: both;
+  float: left;
+  position: relative;
+}
+
+.parent {
+  width: 100%;
+  height: 1900px;
+  position: relative;
+
+  background: url(../media/Mike\ Smart\ on\ Instagram_\ _Workin\ on\ that\ BAKI\ Demo.jpg)
+    no-repeat;
+  background-size: cover;
+}
+
+.child1 {
+  position: absolute;
+  width: 70%;
+  height: 945px;
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 5%;
+  margin: 50px 0 0 220px;
+  padding: 30px 30px 10px 20px;
+  overflow: hidden;
+  box-shadow: 0 20px 50px rgba(5, 4, 4, 0.5);
+}
+
+.text1 {
+  color: white;
+  font-family: sans-serif;
+  width: 40%;
+  float: left;
+}
+
+.img1-right img {
+  width: 100%;
+  border-radius: 0 5% 5% 0;
+}
+
+.img1-right {
+  width: 60%;
+  float: right;
+  margin: -30px -30px -20px 0;
+}
+
+.child2 {
+  position: absolute;
+  width: 70%;
+  clear: both;
+  border-radius: 5%;
+  height: 730px;
+  background: rgba(0, 0, 0, 0.4);
+  margin: 1100px 0 0 220px;
+  padding: 20px 10px 0 10px;
+  overflow: hidden;
+  box-shadow: 0 20px 50px rgba(5, 4, 4, 0.5);
+}
+
+.text2 {
+  color: white;
+  font-family: sans-serif;
+  width: 40%;
+  float: right;
+}
+
+.img2-left img {
+  width: 100%;
+  border-radius: 5% 0 0 5%;
+}
+
+.img2-left {
+  width: 53%;
+  float: left;
+  margin: -25px 0 0 -10px;
+}
+
+/* the results */
+
+.results {
+  clear: both;
+  float: left;
+  width: 100%;
+  position: relative;
+  text-align: center;
+  padding: 10px 20px 0 20px;
+  height: 1550px;
+}
+
+.result img {
+  width: 100%;
+}
+
+.result {
+  width: 380px;
+  border: solid 1px lightgray;
+  display: inherit;
+}
+
+.result1 {
+  float: right;
+}
+
+.result2 {
+  float: left;
+}
+
+.result3 {
+  float: left;
+  margin-left: 150px;
+}
+
+.result4 {
+  clear: left;
+  float: left;
+  margin-top: 20px;
+}
+
+.result5 {
+  float: left;
+  margin-left: 150px;
+}
+
+.result6 {
+  float: right;
+}
+
+.results-text {
+  clear: both;
+}
+
+.result7 {
+  clear: left;
+  float: left;
+  margin-top: 0px;
+}
+
+.result8 {
+  float: right;
+}
+
+.extra-result {
+  text-align: center;
+  font-size: 80px;
+  text-shadow: 4px 4px 5px #000000;
+  background: rgba(0, 0, 0, 0.3);
+  width: 380px;
+  height: 380px;
+  float: left;
+  margin-left: 150px;
+  padding-top: 50px;
+  border: solid 1px lightgray;
+}
+
+/* FAQS */
+
+.q-parent {
+  clear: left;
+  float: left;
+  position: relative;
+  height: 1600px;
+  width: 100%;
+  background: url(../media/Ulisses-Williams-Wallpaper-For-Android.jpg) no-repeat;
+  background-size: cover;
+  padding: 50px 20px 0 20px;
+}
+
+.q-child {
+  position: absolute;
+  width: 75%;
+  height: 86%;
+  float: left;
+  background-color: rgba(0, 0, 0, 0.7);
+  margin-left: 170px;
+  text-align: center;
+  color: white;
+  padding: 20px 30px 20px 30px;
+}
+
+.faqs-text {
+  font-size: 20px;
+}
+.faqs-text p {
+  margin: 0;
+}
+
+.your-q {
+  position: absolute;
+  width: 50%;
+  clear: left;
+  float: left;
+  background: rgba(0, 0, 0, 0.7);
+  margin-left: 170px;
+  top: 1490px;
+  padding: 10px 20px 10px 20px;
+}
+
+.input-q {
+  color: white;
+}
+
+.btn1 {
+  font-size: 20px;
+  position: absolute;
+  font-family: fantasy;
+  top: 1490px;
+  left: 1050px;
+  width: 150px;
+  height: 70px;
+  box-shadow: 0 20px 50px rgba(5, 4, 4, 0.5);
+}
+
+.celected-btn {
+  font-size: 20px;
+  position: absolute;
+  font-family: fantasy;
+  top: 1490px;
+  left: 1050px;
+  width: 150px;
+  height: 70px;
+  background: #1b1b1b;
+}
+
+/* more section */
+
+.more {
+  width: 100%;
+  float: left;
+  position: relative;
+  padding: 0 30px 0 30px;
+}
+
+.first {
+  position: relative;
+  margin-top: 30px;
+  float: left;
+  width: 30%;
+  box-shadow: 0 20px 50px rgba(5, 4, 4, 0.5);
+  overflow: hidden;
+  border-radius: 5%;
+}
+
+.more video {
+  width: 100%;
+  position: relative;
+}
+
+.video-caption {
+  position: absolute;
+  margin-top: -510px;
+  left: 18%;
+}
+
+.second {
+  position: relative;
+  margin-top: 30px;
+  float: right;
+  width: 30%;
+  box-shadow: 0 20px 50px rgba(5, 4, 4, 0.5);
+  overflow: hidden;
+  border-radius: 5%;
+}
+
+.third img {
+  width: 100%;
+}
+
+.third {
+  position: relative;
+  margin: 200px 0 0 72px;
+  float: left;
+  width: 30%;
+  box-shadow: 0 20px 50px rgba(5, 4, 4, 0.5);
+  overflow: hidden;
+  border-radius: 5%;
+}
+
+.fourth {
+  position: relative;
+  margin-top: 30px;
+  float: left;
+  width: 85%;
+  margin-left: 100px;
+  box-shadow: 0 20px 50px rgba(5, 4, 4, 0.5);
+  overflow: hidden;
+  border-radius: 5%;
+}
+
+.fourth-caption {
+  position: absolute;
+  margin-top: -650px;
+  left: 40%;
+}
+
+.fifth {
+  margin-top: 30px;
+  position: relative;
+  width: 100%;
+  border-radius: 5%;
+  box-shadow: 0 20px 50px rgba(5, 4, 4, 0.5);
+  float: left;
+  background: #1b1b1b;
+}
+
+.fifth-img img {
+  width: 100%;
+  border-radius: 0 5% 5% 0;
+}
+
+.fifth-img {
+  width: 42%;
+
+  float: right;
+}
+
+.fifth-text {
+  float: left;
+  width: 50%;
+  margin-top: 20px;
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+.fifth-title {
+  font-size: 50px;
+  text-shadow: 4px 4px 5px #000000;
+  text-align: center;
+}
+
+.sixth {
+  margin-top: 30px;
+  position: relative;
+  width: 100%;
+  border-radius: 5%;
+  box-shadow: 0 20px 50px rgba(5, 4, 4, 0.5);
+  float: left;
+  background: #1b1b1b;
+}
+
+.sixth-text {
+  float: left;
+  width: 50%;
+
+  font-size: 25px;
+  padding: 20px 30px 30px 30px;
+}
+
+.sixth-title {
+  font-size: 50px;
+  text-shadow: 4px 4px 5px #000000;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.follow-plantb {
+  margin-top: 120px;
+}
+
+.fa-youtube {
+  color: red;
+}
+
+.fa-instagram {
+  color: lightgray;
+}
+
+/* login section */
+
+.login {
+  position: relative;
+  margin: 60px 0 0 75px;
+  width: 90%;
+  float: left;
+  box-shadow: 0 20px 50px rgba(5, 4, 4, 0.5);
+  background: linear-gradient(to left, rgb(2, 131, 2), rgb(172, 126, 0));
+}
+
+.login-bar {
+  position: relative;
+  text-align: center;
+  text-shadow: 4px 4px 5px #000000;
+  font-size: 50px;
+}
+
+.login-contain {
+  position: relative;
+  width: 100%;
+  float: left;
+  display: none;
+}
+
+.input {
+  float: left;
+  width: 50%;
+  padding: 0 30px 30px 50px;
+}
+
+.login-btn {
+  width: 20%;
+  position: absolute;
+  left: 65%;
+  top: 20%;
+}
+
+.btn2 {
+  width: 300px;
+  height: 150px;
+  border-radius: 5%;
+  font-size: 40px;
+  font-family: fantasy;
+  widows: 200px;
+  box-shadow: 0 20px 50px rgba(5, 4, 4, 0.5);
+}
+
+.btn-img {
+  width: 60px;
+  right: 8%;
+}
+
+.final {
+  padding: 30px 90px 10px 40px;
+  float: left;
+  margin-top: 30px;
+  width: 100%;
+  box-shadow: 0 20px 50px rgba(5, 4, 4, 0.5);
+  background: #353333;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.final-text {
+  float: right;
+}
+
+.final-name {
+  color: red;
+}
+
+/* media Q -lg-*/
+
+@media (min-width: 1200px) {
+  .simeon {
+    width: 30%;
+  }
+  .rana {
+    width: 30%;
+  }
+
+  .cap2 {
+    padding-top: 450px;
+  }
+
+  .jeff {
+    width: 30%;
+    margin-left: 5px;
+  }
+  .head-video {
+    width: 100%;
+  }
+  .lazar {
+    width: 30%;
+  }
+  .ulisses {
+    width: 30%;
+    margin-left: 40px;
+  }
+  .sally {
+    width: 30%;
+  }
+
+  .cap4,
+  .cap5,
+  .cap6 {
+    width: 100%;
+  }
+  .cap4 {
+    padding-top: 300px;
+  }
+  .cap5 {
+    padding-top: 200px;
+  }
+
+  .child1 {
+    font-size: 14px;
+    height: 885px;
+  }
+
+  .child2 {
+    font-size: 14.5px;
+  }
+
+  .result {
+    width: 25%;
+  }
+
+  .faqs-text {
+    font-size: 20px;
+  }
+
+  .fifth-text li {
+    font-size: 23px;
+  }
+
+  .video-caption {
+    margin: 0;
+    bottom: 420px;
+  }
+}
+
+/* media Q -md- */
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  .simeon {
+    width: 30%;
+    background-position-x: -60px;
+  }
+  .rana {
+    width: 30%;
+    background-position-x: -80px;
+  }
+  .jeff {
+    width: 30%;
+    background-position-x: -60px;
+    left: 50px;
+  }
+  .head-video {
+    width: 100%;
+  }
+  .lazar {
+    width: 30%;
+  }
+  .ulisses {
+    width: 25%;
+    margin-left: 70px;
+    background-position-x: -110px;
+  }
+  .sally {
+    width: 30%;
+    background-position-x: -140px;
+    left: 80px;
+  }
+
+  .cap6 {
+    font-size: 20px;
+    width: 100%;
+  }
+  .cap5 {
+    font-size: 20px;
+    width: 100%;
+  }
+  .cap4 {
+    font-size: 20px;
+    width: 100%;
+  }
+
+  .parent {
+    height: 1400px;
+  }
+
+  .child1 {
+    height: 600px;
+    font-size: 9.5px;
+    margin-left: 150px;
+  }
+
+  .child2 {
+    margin-top: 700px;
+    height: 530px;
+    font-size: 10.3px;
+    margin-left: 150px;
+  }
+
+  .result {
+    width: 25%;
+  }
+
+  .extra-result {
+    width: 25%;
+    font-size: 70px;
+  }
+
+  .q-child {
+    margin-left: 100px;
+  }
+
+  .faqs-text {
+    font-size: 18px;
+  }
+
+  .your-q {
+    left: -50px;
+  }
+
+  .btn1 {
+    margin-left: -350px;
+  }
+
+  .fifth-title {
+    font-size: 30px;
+  }
+
+  .fifth-text li {
+    font-size: 10px;
+  }
+
+  .sixth-title {
+    font-size: 30px;
+  }
+
+  .follow-plantb {
+    margin-top: -5px;
+  }
+
+  .sixth-text {
+    font-size: 15px;
+  }
+
+  .video-caption {
+    margin: 0;
+    bottom: 250px;
+  }
+
+  .fourth-caption {
+    margin: 0;
+    bottom: 340px;
+  }
+
+  .v-c {
+    top: 5px;
+  }
+}
+
+/* media Q sm */
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .head-video {
+    padding-top: 0;
+    width: 100%;
+  }
+
+  .simeon {
+    width: 30%;
+    height: 300px;
+    background-position-x: -30px;
+  }
+  .rana {
+    width: 30%;
+    height: 350px;
+    background-position-x: -30px;
+    margin-left: 50px;
+    background-size: cover;
+  }
+  .jeff {
+    width: 30%;
+    height: 300px;
+    background-position-x: -30px;
+    left: 50px;
+  }
+
+  .lazar {
+    width: 30%;
+    height: 300px;
+    background-position-x: -30px;
+  }
+  .ulisses {
+    height: 250px;
+    width: 25%;
+    margin-left: 50px;
+    background-position-x: -100px;
+  }
+  .sally {
+    height: 300px;
+    width: 30%;
+    background-position-x: -100px;
+    left: 80px;
+  }
+
+  .cap6 {
+    font-size: 20px;
+    width: 100%;
+    height: 100%;
+  }
+  .cap5 {
+    font-size: 20px;
+    width: 100%;
+    height: 100%;
+  }
+  .cap4 {
+    font-size: 20px;
+    width: 100%;
+    height: 100%;
+  }
+
+  .story {
+    font-size: 13px;
+  }
+
+  .parent {
+    height: 1000px;
+  }
+
+  .child1 {
+    height: 450px;
+    font-size: 7px;
+    margin-left: 150px;
+  }
+
+  .child2 {
+    height: 400px;
+    margin-top: 520px;
+    font-size: 7.8px;
+    margin-left: 150px;
+  }
+
+  .result3 {
+    margin-left: 80px;
+  }
+
+  .result5 {
+    margin-left: 80px;
+  }
+
+  .result {
+    width: 25%;
+  }
+
+  .extra-result {
+    width: 25%;
+    font-size: 50px;
+    height: 300px;
+    right: 50px;
+  }
+
+  .q-child {
+    margin-left: 100px;
+  }
+
+  .faqs-text {
+    font-size: 16px;
+  }
+
+  .your-q {
+    left: -50px;
+  }
+
+  .btn1 {
+    margin-left: -500px;
+  }
+
+  .third {
+    width: 20%;
+  }
+
+  .fourth {
+    right: 50px;
+  }
+
+  .fifth-title {
+    font-size: 30px;
+    margin-bottom: 0;
+  }
+
+  .sixth-title {
+    font-size: 30px;
+  }
+
+  .fifth-text li {
+    font-size: 6px;
+  }
+
+  .follow-plantb {
+    margin-top: -5px;
+  }
+
+  .sixth-text {
+    font-size: 11px;
+  }
+
+  .video-caption {
+    display: none;
+  }
+
+  .fourth-caption {
+    margin: 0;
+    bottom: 340px;
+  }
+
+  .v-c {
+    top: 5px;
+  }
+
+  .login {
+    right: 40px;
+  }
+
+  .btn2 {
+    width: 250px;
+    right: 40px;
+  }
+}
+
+/* media Q -xs- */
+
+@media (max-width: 768px) {
+  .head-video {
+    padding-top: 0;
+    width: 100%;
+  }
+
+  .simeon {
+    width: 30%;
+    height: 300px;
+    background-position-x: -40px;
+  }
+  .rana {
+    width: 30%;
+    background-position-x: -60px;
+    margin-left: 50px;
+    background-size: cover;
+    height: 350px;
+  }
+  .jeff {
+    width: 30%;
+    background-position-x: -60px;
+    left: 50px;
+    height: 300px;
+  }
+
+  .lazar {
+    width: 30%;
+    height: 300px;
+    background-position-x: -70px;
+  }
+  .ulisses {
+    width: 25%;
+    margin-left: 20px;
+    background-position-x: -130px;
+    height: 280px;
+  }
+  .sally {
+    height: 300px;
+    width: 30%;
+    background-position-x: -100px;
+    left: 80px;
+  }
+
+  .cap6 {
+    font-size: 20px;
+    width: 100%;
+    height: 100%;
+  }
+  .cap5 {
+    font-size: 20px;
+    width: 100%;
+    height: 100%;
+  }
+  .cap4 {
+    font-size: 20px;
+    width: 100%;
+    height: 100%;
+  }
+
+  .story {
+    font-size: 12px;
+  }
+
+  .q-parent {
+    top: -450px;
+  }
+
+  .more {
+    top: -450px;
+  }
+  .login {
+    top: -450px;
+  }
+
+  .final {
+    clear: both;
+    float: left;
+  }
+
+  .parent {
+    height: 1000px;
+  }
+
+  .child1 {
+    height: 360px;
+    font-size: 5.5px;
+    margin-left: 150px;
+  }
+
+  .child2 {
+    height: 320px;
+    margin-top: 520px;
+    font-size: 6px;
+    margin-left: 150px;
+  }
+
+  .result3 {
+    margin-left: 80px;
+  }
+
+  .result5 {
+    margin-left: 80px;
+  }
+
+  .result {
+    width: 25%;
+  }
+
+  .extra-result {
+    width: 20%;
+    font-size: 30px;
+    height: 200px;
+    right: 50px;
+  }
+
+  .q-child {
+    margin-left: 100px;
+  }
+
+  .faqs-text {
+    font-size: 14.5px;
+  }
+
+  .your-q {
+    left: -50px;
+  }
+
+  .btn1 {
+    margin-left: -600px;
+  }
+
+  .third {
+    width: 20%;
+  }
+
+  .fourth {
+    right: 50px;
+  }
+
+  .fifth-title {
+    font-size: 20px;
+  }
+
+  .sixth-title {
+    font-size: 20px;
+    margin: 0;
+  }
+  .sixth {
+    font-size: 8px;
+  }
+  .sixth-text {
+    padding-bottom: 0;
+  }
+
+  .fifth-text li {
+    font-size: 5px;
+  }
+
+  .follow-plantb {
+    margin-top: -5px;
+  }
+
+  .sixth-text {
+    font-size: 11px;
+  }
+
+  .video-caption {
+    display: none;
+  }
+
+  .fourth-caption {
+    margin: 0;
+    bottom: 340px;
+  }
+
+  .v-c {
+    top: 5px;
+  }
+
+  .login {
+    right: 40px;
+  }
+
+  .btn2 {
+    width: 200px;
+    right: 40px;
+  }
+}
